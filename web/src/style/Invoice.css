@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+nav{
+    display: flex;
+    background-image: linear-gradient(to right, #2562FF, #163B99);
+    margin: -10px;
+    flex-wrap: wrap;
+}
+ul{
+    padding-right: 20px;
+    list-style: none;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.menu a:hover {
+    color: #163B99; /* Warna berubah saat dihover */
+}
+li a{
+    padding: 0 25px;
+}
+h3{
+    padding-left: 40px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.invoice-item {
+    margin-bottom: 15px;
+}
+
+.invoice-item span {
+    font-weight: bold;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.invoice-item {
+    margin-bottom: 15px;
+}
+
+.invoice-item span {
+    font-weight: bold;
+}
